@@ -14,7 +14,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 - [Author](#author)
 
 
-
 ## Overview
 
 ### The challenge
@@ -26,12 +25,12 @@ Users should be able to:
 
 ### Screenshot-mobile
 
-![mobile-D]()
+![mobile-D](https://user-images.githubusercontent.com/79264045/131321846-92e574f7-d9fc-4600-a96c-60f11335e58d.png)
 
 
 ### Screenshot-desktop
 
-![desktop-D]()
+![desktop-D](https://user-images.githubusercontent.com/79264045/131321772-fed2aedc-9a8f-41b7-ac34-662703419378.png)
 
 
 
