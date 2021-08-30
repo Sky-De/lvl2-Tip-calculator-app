@@ -1,4 +1,3 @@
-![tip-calc-mobile](https://user-images.githubusercontent.com/79264045/131322906-20068e6e-e82e-42f5-acb3-80a2e866352b.png)
 # Frontend Mentor - Tip calculator app solution
 
 This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
