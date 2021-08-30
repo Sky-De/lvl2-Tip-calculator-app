@@ -1,3 +1,4 @@
+![tip-calc-mobile](https://user-images.githubusercontent.com/79264045/131322906-20068e6e-e82e-42f5-acb3-80a2e866352b.png)
 # Frontend Mentor - Tip calculator app solution
 
 This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
@@ -25,7 +26,7 @@ Users should be able to:
 
 ### Screenshot-mobile
 
-![mobile-D](https://user-images.githubusercontent.com/79264045/131321846-92e574f7-d9fc-4600-a96c-60f11335e58d.png)
+![mobile-D](https://user-images.githubusercontent.com/79264045/131322915-d06f0a41-1549-494f-8355-ce37a533c655.png)
 
 
 ### Screenshot-desktop
