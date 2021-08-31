@@ -258,6 +258,9 @@ main {
         border-color: $White;
         grid-row-start: 4;
         padding: 0 2.5rem;
+        button {
+          cursor: pointer;
+        }
       }
     }
   }

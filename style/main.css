@@ -253,6 +253,9 @@ main {
     grid-row-start: 4;
     padding: 0 2.5rem;
   }
+  .result .result-box .button-control button {
+    cursor: pointer;
+  }
 
   .tip-amount {
     padding-top: 3rem;
