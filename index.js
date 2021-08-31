@@ -49,8 +49,8 @@ let reset = document.getElementById('reset')
 reset.addEventListener('click',()=>{
     bill.value = '';
     number.value = '' ;
-    each.innerHTML = '$ 0';
-    all.innerHTML = '$ 0';
+    each.innerHTML = '$ 0.00';
+    all.innerHTML = '$ 0.00';
     document.querySelector('.active').value = '';
     document.querySelector('.active').classList.remove('active');
     tips[2].classList.add('active');
@@ -82,7 +82,6 @@ let calcTip = () =>{
             number.classList.remove('err')
         }
         if(bill.value!=='' && document.querySelector('.active').value!=="" && number.value!==''){
-        console.log('done');
         each.innerHTML = '$' + (bill.value *  document.querySelector('.active').value /100).toFixed(2);
         all.innerHTML = '$' + ((bill.value *  document.querySelector('.active').value /100) * number.value).toFixed(2);
     }
