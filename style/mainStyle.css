@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap");
+/*  */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -19,14 +20,6 @@ img {
   width: 100%;
   height: 100%;
   background-color: #c5e4e7;
-}
-
-.template {
-  position: absolute;
-  top: 0;
-  left: 0;
-  opacity: 0.2;
-  z-index: 2222;
 }
 
 .title {
@@ -85,7 +78,7 @@ main {
   -webkit-appearance: none;
   margin: 0;
 }
-.calc-box input[type=number] {
+.calc-box input[type="number"] {
   -moz-appearance: textfield;
 }
 .calc-box input.err {
