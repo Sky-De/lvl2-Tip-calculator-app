@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [click Here](https://www.frontendmentor.io/solutions/tip-calculator-app-solution-evpxlMHbD)
-- Live Site URL: [Click Here](https://sky-1991-sia.github.io/lvl2-Tip-calculator-app/)
+- Live Site URL: [Click Here](https://tip-calculator-app-sky-de.netlify.app/)
 
 
 ### Built with
